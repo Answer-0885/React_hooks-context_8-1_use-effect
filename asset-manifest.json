@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React_hooks-context_8-1_use-effect/static/css/main.266dfb60.css",
+    "main.js": "/React_hooks-context_8-1_use-effect/static/js/main.c9c86e00.js",
+    "index.html": "/React_hooks-context_8-1_use-effect/index.html",
+    "main.266dfb60.css.map": "/React_hooks-context_8-1_use-effect/static/css/main.266dfb60.css.map",
+    "main.c9c86e00.js.map": "/React_hooks-context_8-1_use-effect/static/js/main.c9c86e00.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.266dfb60.css",
+    "static/js/main.c9c86e00.js"
+  ]
+}
